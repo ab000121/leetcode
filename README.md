@@ -11,4 +11,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ab000121/leetcode/tree/master/0051-n-queens) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/ab000121/leetcode/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/ab000121/leetcode/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/ab000121/leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
