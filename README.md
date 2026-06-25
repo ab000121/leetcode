@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ab000121/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/ab000121/leetcode/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/ab000121/leetcode/tree/master/0051-n-queens) |
 ## Backtracking
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ab000121/leetcode/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/ab000121/leetcode/tree/master/0036-valid-sudoku) |
 ## Math
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ab000121/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/ab000121/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
