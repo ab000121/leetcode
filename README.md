@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ab000121/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ab000121/leetcode/tree/master/0051-n-queens) |
 | [0303-range-sum-query-immutable](https://github.com/ab000121/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ab000121/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ab000121/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ab000121/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Backtracking
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ab000121/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ab000121/leetcode/tree/master/0037-sudoku-solver) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ab000121/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Segment Tree
 |  |
 | ------- |
@@ -67,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ab000121/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ab000121/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ab000121/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ab000121/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ab000121/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ab000121/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
