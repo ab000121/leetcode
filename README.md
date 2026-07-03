@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ab000121/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ab000121/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ab000121/leetcode/tree/master/0052-n-queens-ii) |
+| [0131-palindrome-partitioning](https://github.com/ab000121/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ab000121/leetcode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/ab000121/leetcode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/ab000121/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ab000121/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ab000121/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ab000121/leetcode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/ab000121/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |
 | ------- |
