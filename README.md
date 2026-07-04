@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ab000121/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ab000121/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ab000121/leetcode/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/ab000121/leetcode/tree/master/0141-linked-list-cycle) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ab000121/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ab000121/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ab000121/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ab000121/leetcode/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/ab000121/leetcode/tree/master/0141-linked-list-cycle) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ab000121/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ab000121/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
