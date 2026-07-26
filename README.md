@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ab000121/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0303-range-sum-query-immutable](https://github.com/ab000121/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ab000121/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0414-third-maximum-number](https://github.com/ab000121/leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ab000121/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ab000121/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ab000121/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ab000121/leetcode/tree/master/0049-group-anagrams) |
+| [0414-third-maximum-number](https://github.com/ab000121/leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ab000121/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
