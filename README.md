@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ab000121/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/ab000121/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ab000121/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/ab000121/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ab000121/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/ab000121/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ab000121/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/ab000121/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Sorting
 |  |
 | ------- |
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ab000121/leetcode/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/ab000121/leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
