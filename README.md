@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ab000121/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ab000121/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ab000121/leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/ab000121/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ab000121/leetcode/tree/master/0037-sudoku-solver) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ab000121/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ab000121/leetcode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/ab000121/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ab000121/leetcode/tree/master/0049-group-anagrams) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ab000121/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ab000121/leetcode/tree/master/0076-minimum-window-substring) |
 | [0904-fruit-into-baskets](https://github.com/ab000121/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ab000121/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
