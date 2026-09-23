@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ab000121/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ab000121/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ab000121/leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/ab000121/leetcode/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ab000121/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ab000121/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ab000121/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ab000121/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ab000121/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ab000121/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/ab000121/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ab000121/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ab000121/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ab000121/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ab000121/leetcode/tree/master/0055-jump-game) |
 | [1386-cinema-seat-allocation](https://github.com/ab000121/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/ab000121/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ab000121/leetcode/tree/master/2029-stone-game-ix) |
