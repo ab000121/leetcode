@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ab000121/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/ab000121/leetcode/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/ab000121/leetcode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/ab000121/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/ab000121/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ab000121/leetcode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ab000121/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ab000121/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ab000121/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/ab000121/leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/ab000121/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/ab000121/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ab000121/leetcode/tree/master/0494-target-sum) |
 | [1140-stone-game-ii](https://github.com/ab000121/leetcode/tree/master/1140-stone-game-ii) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ab000121/leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/ab000121/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ab000121/leetcode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ab000121/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ab000121/leetcode/tree/master/0494-target-sum) |
 ## Longest Common Subsequence
 |  |
