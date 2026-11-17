@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ab000121/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ab000121/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ab000121/leetcode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/ab000121/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ab000121/leetcode/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ab000121/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ab000121/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ab000121/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ab000121/leetcode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/ab000121/leetcode/tree/master/0054-spiral-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ab000121/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Segment Tree
 |  |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ab000121/leetcode/tree/master/0054-spiral-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ab000121/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ab000121/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Heap (Priority Queue)
