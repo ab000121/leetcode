@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ab000121/leetcode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ab000121/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ab000121/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0746-min-cost-climbing-stairs](https://github.com/ab000121/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/ab000121/leetcode/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/ab000121/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1140-stone-game-ii](https://github.com/ab000121/leetcode/tree/master/1140-stone-game-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ab000121/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/ab000121/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ab000121/leetcode/tree/master/0494-target-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/ab000121/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1140-stone-game-ii](https://github.com/ab000121/leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/ab000121/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/ab000121/leetcode/tree/master/1406-stone-game-iii) |
