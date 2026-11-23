@@ -1,21 +1,16 @@
 class Solution {
     public int findTargetSumWays(int[] nums, int target) {
-        return helper(nums,target,0,0,0);
+        return helper(nums,0,target,0);
     }
 
-    public int helper(int[] nums, int target, int sum , int idx, int ways){
-        if(idx == nums.length && sum == target){
-            ways += 1;
-            return ways;
+    int helper(int nums[], int index , int target, int sum){
+        if(index == nums.length){
+            return sum == target? 1:0 ;
         }
 
+        int positive = helper(nums,index+1,target, sum+nums[index]);
+        int negative = helper(nums,index+1,target, sum - nums[index]);
 
-        if(idx == nums.length && sum != target) return 0;
-
-
-        int pos = helper(nums , target , sum + nums[idx], idx+1, ways);
-        int neg = helper(nums , target , sum - nums[idx], idx +1, ways);
-
-        return pos + neg;
+        return positive + negative;
     }
 }
