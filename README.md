@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ab000121/leetcode/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/ab000121/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ab000121/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ab000121/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/ab000121/leetcode/tree/master/0486-predict-the-winner) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ab000121/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ab000121/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ab000121/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ab000121/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ab000121/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ab000121/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ab000121/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ab000121/leetcode/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ab000121/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
